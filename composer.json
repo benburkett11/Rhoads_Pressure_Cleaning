@@ -1,0 +1,13 @@
+{
+  "name": "Rhoads Pressure Cleaning",
+  "description": "Rhoads Pressure Cleaning",
+  "authors": [
+    {
+      "name": "Benjamin Burkett",
+      "email": "benburkett11@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^5.2"
+  }
+}
