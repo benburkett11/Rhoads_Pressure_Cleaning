@@ -4,6 +4,5 @@
 
 require_once __DIR__ . '/composer' . '/autoload_real.php';
 require_once __DIR__ . '/pdoFunctions.php';
-require_once __DIR__ . '/header.php';
 
 return ComposerAutoloaderInit70139e457a5a6b138849d7d3d5ed383a::getLoader();
